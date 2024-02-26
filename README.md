@@ -1,2 +1,2 @@
-# vezbe_OP
+# Vezbe OP
 Resene vezbe iz predmeta OP.
