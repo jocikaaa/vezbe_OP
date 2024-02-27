@@ -20,4 +20,4 @@ main()
 
 /*Funkcija SCANF sluzi da se cita unos sa tastature, i da se taj unos sacuva u promenljivoj kojoj odaberemo.
 Kao i PRINTF, SCANF ima formate koji se moraju koristiti u zavisnosti od tipa podataka koji se unose 
-(na primer ako se trazi unos celog broja onda %d, oktalnog %o i tako dalje...)
+(na primer ako se trazi unos celog broja onda %d, oktalnog %o i tako dalje...)*/
