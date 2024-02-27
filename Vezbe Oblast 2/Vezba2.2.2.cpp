@@ -1,10 +1,10 @@
-/* Zbirka strana 21, zadatak 1*/
+/* Zbirka strana 21, zadatak 2*/
 
 #include <stdio.h>
 
 
 
-int main()
+main()
 {
 	int x;
 
