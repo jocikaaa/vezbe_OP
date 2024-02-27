@@ -1,4 +1,4 @@
-/* Zbirka strana 19, zadatak 1*/
+/* Zbirka strana 19, zadatak 2*/
 
 #include <stdio.h>
 
