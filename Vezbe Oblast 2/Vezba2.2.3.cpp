@@ -6,7 +6,7 @@
 
 main()
 {
-	double x;
+	float x;
 
 	printf("\nUnesite realan broj: ");
 	scanf("%lf", &x);
