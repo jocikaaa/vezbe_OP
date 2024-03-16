@@ -1,3 +1,6 @@
+### Moja greska, fajlovi su sacuvani kao CPP, a ne kao C. Ovo nema nikakav uticaj na kod, on ce idalje raditi tacno kako treba. 
+
+
 # Vezbe OP
 Resene vezbe iz predmeta OP.
 
