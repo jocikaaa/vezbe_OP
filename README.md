@@ -1,4 +1,4 @@
-### Moja greska, fajlovi su sacuvani kao CPP, a ne kao C. Ovo nema nikakav uticaj na kod, on ce idalje raditi tacno kako treba. 
+### Moja greska, fajlovi su sacuvani kao CPP, a ne kao C. Ovo nema nikakav uticaj na kod, on ce idalje raditi tacno kako treba, ali nemojte preuzimati fajlove direktno nego ih sami otkucajte.
 
 
 # Vezbe OP
