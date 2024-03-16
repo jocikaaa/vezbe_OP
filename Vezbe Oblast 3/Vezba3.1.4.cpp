@@ -4,7 +4,7 @@
 
 
 
-int main()
+main()
 {
 	int a, b, c, d;
 
