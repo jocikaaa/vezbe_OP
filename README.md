@@ -13,3 +13,6 @@ Osnovni tipovi promenljivih i njihova deklaracija, kao i detaljnije formatiranje
 
 ## Oblast 3
 Naredbe selekcije (IF/ELSE) i operatori na nivou bita.
+
+## Oblast 4
+Naredbe ciklusa, ulaz/izlaz karakter po karakter.
